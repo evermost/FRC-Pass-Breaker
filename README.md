@@ -3,6 +3,6 @@ A network of machines to brute force passwords on a locked pdf distributed by FR
 
 From Linux packages, qpdf is required. It can be installed using the following line:
 
-'''
+```
     Sudo apt install qpdf -y
-'''
+```
