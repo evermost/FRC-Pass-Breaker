@@ -1,21 +1,27 @@
 import subprocess
 import argparse
 
+parser = argparse.ArgumentParser(description="Bruteforce values from \"start \" with \"nums\" many characters added")
+parser.add_argument('-start', action="store", dest="start", default="")
+parser.add_argument('-nums', action="store", dest="nums", type=int)
 
-parser = argparse.ArgumentParser(description="hello?")
+res = parser.parse_args()
+start = res.start
+nums = res.nums
+
 
 file_name = "file.pdf"
 
-
-start = ""
-nums = 3
 l = []
 s_char = 2
 s_end = 128
 
+print(start, nums)
+
 for i in range(s_char, s_end):
     l.append(chr(i))
 
+# THIS WHOLE "MAKING A LIST OF PASSWORDS" TO BE CHANGED TO A RECURSIVE FUNCTION
 
 for k in range(nums - 1):
     new_list = []
