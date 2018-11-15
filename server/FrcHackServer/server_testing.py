@@ -13,7 +13,7 @@ if __name__ == '__main__':
             print(r.content.decode())
         elif action == 's':
             word = input("pass to submit: ")
-            r = requests.post("http://127.0.0.1:8000/submit/", params={'item' : word})
+            r = requests.post("http://127.0.0.1:8000/submit/", params={'item': word})
             print(r.content.decode())
         elif action == 'r':
             r = requests.post("http://127.0.0.1:8000/reset/")

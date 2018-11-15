@@ -1,8 +1,8 @@
-import requests
-
 """
 Clears all the words from the server and resets found password if any.
 """
+
+import requests
 
 if __name__ == '__main__':
     r = requests.post("http://127.0.0.1:8000/reset/")

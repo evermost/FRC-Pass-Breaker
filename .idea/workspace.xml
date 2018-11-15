@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d2aebe-13e1-4a33-a137-fa9b330ea3b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/setup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/add_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/clear_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FRC-Pass-Breaker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FRC-Pass-Breaker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client_attempt_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/client_attempt_interval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/.idea/FrcHackServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/.idea/FrcHackServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0002_auto_20181113_0535.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0002_auto_20181113_0535.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0003_auto_20181113_0545.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0003_auto_20181113_0545.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0004_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0004_status.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0005_auto_20181115_2032.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/0005_auto_20181115_2032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FrcHackServer/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/FrcHackServer/server_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/FrcHackServer/server_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/add_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/add_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/clear_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/clear_server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,26 +32,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1281" />
-          <entry key="txt" value="51" />
+          <entry key="py" value="1388" />
+          <entry key="txt" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Python" value="1281" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="Python" value="1388" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -92,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup/add_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="506">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="e#152#166#0" expanded="true" />
               </folding>
@@ -101,20 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup/clear_server.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-719">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="352">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -125,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/FrcHackServer/server_testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="61" />
+            <state relative-caret-position="154">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -153,10 +122,11 @@
       <list>
         <option value="$PROJECT_DIR$/server/FrcHackServer/manage.py" />
         <option value="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/models.py" />
-        <option value="$PROJECT_DIR$/setup/add_words.py" />
         <option value="$PROJECT_DIR$/setup/test.txt" />
         <option value="$PROJECT_DIR$/server/FrcHackServer/FrcHackServer/settings.py" />
         <option value="$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py" />
+        <option value="$PROJECT_DIR$/setup/add_words.py" />
+        <option value="$PROJECT_DIR$/server/FrcHackServer/server_testing.py" />
         <option value="$PROJECT_DIR$/setup/clear_server.py" />
       </list>
     </option>
@@ -190,22 +160,6 @@
               <item name="FRC-Pass-Breaker" type="b2602c69:ProjectViewProjectNode" />
               <item name="FRC-Pass-Breaker" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FRC-Pass-Breaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FRC-Pass-Breaker" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FRC-Pass-Breaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FRC-Pass-Breaker" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="FrcHackServer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FRC-Pass-Breaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FRC-Pass-Breaker" type="462c0819:PsiDirectoryNode" />
-              <item name="setup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,18 +277,26 @@
       <option name="presentableId" value="Default" />
       <updated>1542316353621</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added setup files to help manage server">
+      <created>1542322183666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542322183666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15974441" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15974441" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,23 +322,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added server" />
+    <MESSAGE value="Added setup files to help manage server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added setup files to help manage server" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server/FrcHackServer/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/client_attempt_interval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,29 +354,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup/add_words.py">
+    <entry file="file://$PROJECT_DIR$/client/client_attempt_interval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="513">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
-            <element signature="e#152#166#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/FrcHackServer/server_testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="61" />
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py">
+    <entry file="file://$PROJECT_DIR$/setup/add_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-719">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="506">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#152#166#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,7 +384,17 @@
     <entry file="file://$PROJECT_DIR$/setup/clear_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/FrcHackServer/FrcPassBreaker/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

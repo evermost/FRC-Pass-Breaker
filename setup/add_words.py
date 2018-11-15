@@ -13,16 +13,16 @@ import requests
 
 if __name__ == '__main__':
     file_name = input("File containing words: ")
-    failure_limit = int(input("How many failed additions should be tolerated: " ))
+    failure_limit = int(input("How many failed additions should be tolerated: "))
     failure_count = 0
 
     if os.path.isfile(file_name):
-        file = open(file_name,'r')
+        file = open(file_name, 'r')
         lines = file.readlines()
 
         for line in lines:
-            line.replace(' ','')
-            line.replace('\n','')
+            line.replace(' ', '')
+            line.replace('\n', '')
 
             r = requests.post("http://127.0.0.1:8000/word/", params={'item': line})
 
